@@ -36,7 +36,6 @@ Markdown 是当下流行文档书写语言，旨在通过简单的语法实现�
 使用中括号包裹标题，小括号包裹内容：
 
 [Taio 官网](https://taio.app/cn/)
-[WiFi icon](https://img03.sogoucdn.com/app/a/100520146/36776e7c16871232cc7b127b78930d47)
 
 插入图片类似，只需在前面增加一个感叹号。
 
